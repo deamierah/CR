@@ -1,5 +1,7 @@
 <?php
 //retrieve session data
+
+//trialforSCM
   session_start();
  $dbHost = "academic-mysql.cc.gatech.edu";         //Location Of Database usually its localhost 
  $dbUser = "cs4400_Group_59";            //Database User Name 
